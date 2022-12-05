@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vrishabh-D-B
-- 👀 I’m interested in Programming, Data Science, Machine Learning and Networking and Security.
-- 🌱 I’m currently learning Python 3 from Coursera
-- 💞️ I’m looking to collaborate on some python projects.
+- 👀 I’m interested in Programming, Linux, Devops, Networking and Security.
+
+
 - 📫 How to reach me :- E-mail me at bansodvrishabh@pm.me or contact me on Linkdin here : https://www.linkedin.com/in/vrishabh-bansod/
 
 <!---
